@@ -1,4 +1,4 @@
-### 🎮 Simon Game — JavaScript Memory Challenge
+### 🎮 Simon Game - JavaScript Memory Challenge
 A browser-based Simon Game built with HTML, CSS, JavaScript, and jQuery.  
 The goal is to remember and repeat an increasingly long sequence of colors and sounds.  
 This project demonstrates DOM manipulation, event handling, timing logic, and basic game mechanics.
@@ -41,10 +41,10 @@ https://matan1ohayon.github.io/Simon-Game/
 ---
 
 ### 📁 Project Structure
-- index.html — page layout and button grid  
-- styles.css — styling, colors, animations  
-- index.js — game logic, sequence handling, sound triggers  
-- sounds/ — audio files for presses and errors  
+- index.html - page layout and button grid  
+- styles.css - styling, colors, animations  
+- index.js - game logic, sequence handling, sound triggers  
+- sounds/ - audio files for presses and errors  
 
 ---
 
